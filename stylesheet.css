@@ -3,20 +3,20 @@ body {
 }
 
 li {
-  list-style: none;
+  font-size: 36px;
 }
 
 .header {
-  background-color: #ff3838;
+  background-color: #A52A2A;
   color: #fff;
-  height: 180px;
+  height: 220px;
   
 }
 
 
 .header-logo {
   float: center;
-  font-size: 36px;
+  font-size: 100px;
   padding: 20px 20px;
 }
 
@@ -28,14 +28,7 @@ li {
 
 .main {
   padding: 100px 80px;
-  background-color: white;
-  animation-name: contoh;
-  animation-duration: 10s;
-}
-
-@keyframes contoh {
-  from {background-color: white;}
-  to {background-color: pink;}
+  background-color: pink;
 }
 
 .copy-container h1 {
@@ -50,6 +43,7 @@ li {
 .contents {
   height: 800 px;
   margin-top: 50px;
+  font-size: 36px;
 }
 
 .section-title {
@@ -75,7 +69,7 @@ li {
 .footer {
   background-color: #ff3838;
   color: #fff;
-  height: 120px;
+  height: 150px;
   padding: 40px;
  
 }
