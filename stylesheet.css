@@ -9,13 +9,13 @@ li {
 .header {
   background-color: #e79cff;
   color: #fff;
-  height: 4000px;
+  height: 3600px;
   
 }
 
 
 .header-logo {
-  float: center;
+  float: right;
   font-size: 80px;
   padding: 20px 20px;
 }
@@ -68,9 +68,9 @@ li {
 
 
 .footer {
-  background-color: #f9deff;
+  background-color: #e79cff;
   color: #fff;
-  height: 240px;
+  height: 180px;
   padding: 40px;
  
 }
@@ -85,7 +85,7 @@ li {
 
 .footer-list li {
   padding: 20px 20px;
-  float: right;
+  float: left;
   font-size: 26px;
 }
 
