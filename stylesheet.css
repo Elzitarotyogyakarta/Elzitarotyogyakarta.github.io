@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #E2A76F;
+  background-color: #e79cff;
   color: #fff;
   height: 360px;
   
@@ -29,7 +29,7 @@ li {
 
 .main {
   padding: 100px 80px;
-  background-color: #FAEBD7;
+  background-color: #f9deff;
 }
 
 .copy-container h1 {
