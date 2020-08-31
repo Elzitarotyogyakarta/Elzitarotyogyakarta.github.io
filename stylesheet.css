@@ -9,7 +9,7 @@ li {
 .header {
   background-color: #e79cff;
   color: #fff;
-  height: 360px;
+  height: 4000px;
   
 }
 
@@ -68,9 +68,9 @@ li {
 
 
 .footer {
-  background-color: #E2A76F;
+  background-color: #f9deff;
   color: #fff;
-  height: 180px;
+  height: 240px;
   padding: 40px;
  
 }
