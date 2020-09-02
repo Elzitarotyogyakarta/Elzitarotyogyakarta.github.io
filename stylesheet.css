@@ -21,8 +21,8 @@ li {
 }
 
 .header-list li {
-  float: right;
-  padding: 33px 20px;
+  text-align: center;
+  padding: 40px 20px;
   color: #fff;
   font-size: 36px;
 }
@@ -84,8 +84,8 @@ li {
 
 
 .footer-list li {
-  padding: 20px 20px;
-  float: center;
+  padding: 30px 20px;
+  text-align: center;
   font-size: 26px;
   display: inline;
 }
