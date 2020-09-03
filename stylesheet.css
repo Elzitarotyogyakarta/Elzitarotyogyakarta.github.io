@@ -85,7 +85,8 @@ li {
 
 
 .footer-list li {
-  padding: 30px 20px;
+  padding-top: 50px;
+  paadingb=-bottom: 10px;
   text-align: right;
   font-size: 25px;
   display: inline;
