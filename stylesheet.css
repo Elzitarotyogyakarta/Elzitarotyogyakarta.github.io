@@ -21,8 +21,8 @@ li {
 }
 
 .header-list li {
-  text-align: right;
-  padding: 40px 20px;
+  float: right;
+  padding: 20px 10px;
   color: #fff;
   font-size: 30px;
   
